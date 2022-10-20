@@ -16,6 +16,10 @@
   justify-content: space-between;
   align-items: center;
 }
+.cc-logo img{
+  width: 40px;
+  height: 40px;
+}
 
 .cc-info {
   display: grid;
