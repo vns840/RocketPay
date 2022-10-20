@@ -44,5 +44,3 @@ Você pode visualizar o layout do projeto clicando aqui [LAYOUT](https://www.fig
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat 
